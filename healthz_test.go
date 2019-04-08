@@ -10,7 +10,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/klyve/healthz"
+	"github.com/klyve/go-healthz"
 )
 
 var instance healthz.Instance

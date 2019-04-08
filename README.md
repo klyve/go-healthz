@@ -1,4 +1,6 @@
 # go-healthz
+[![Build Status](https://travis-ci.org/klyve/go-healthz.svg?branch=master)](https://travis-ci.org/klyve/go-healthz)
+
 
 go-healthz is a `health` and `liveness` package for golang, 
 it provides a quick and easy interface to add healthz services to your application.
